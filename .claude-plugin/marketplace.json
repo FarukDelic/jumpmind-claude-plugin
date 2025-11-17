@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "jumpmind-claude-plugin",
-      "source": ".",
+      "source": "./",
       "description": "A Claude Code plugin for the JumpMind claude"
     }
   ]
