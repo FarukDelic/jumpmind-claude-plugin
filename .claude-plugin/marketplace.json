@@ -1,0 +1,13 @@
+{
+  "name": "jumpmind-claude-plugin",
+  "owner": {
+    "name": "JumpMind<>Symphony"
+  },
+  "plugins": [
+    {
+      "name": "jumpmind-claude-plugin",
+      "source": "./",
+      "description": "A Claude Code plugin for the JumpMind claude"
+    }
+  ]
+}
