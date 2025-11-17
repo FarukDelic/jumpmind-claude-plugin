@@ -1,0 +1,8 @@
+{
+  "name": "jumpmind-claude-plugin",
+  "description": "A Claude Code plugin for the JumpMind Claude",
+  "version": "1.0.0",
+  "author": {
+    "name": "JumpMind<>Symphony"
+  }
+}
