@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "Figma": {
+      "url": "http://127.0.0.1:3845/mcp"
+    },
+    "Atlassian-MCP-Server": {
+      "url": "https://mcp.atlassian.com/v1/sse"
+    },
+    "chrome-devtools": {
+      "command": "npx",
+      "args": ["chrome-devtools-mcp@latest"]
+    }
+  }
+}
